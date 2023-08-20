@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    font-family: 'Mont-Heavy';
+    background-image: url(0.png);
+    border: 5px solid orangered;
+}
+.heading{
+    width: 100%;
+    
+}
+
+@font-face {
+    font-family: 'Mont-Heavy';
+    src: url(Mont-HeavyDEMO.otf);
+}
